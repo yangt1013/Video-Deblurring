@@ -1,1 +1,1 @@
-# Video-Deblurring
+# Deblurring-3D-Gaussian-Splatting
